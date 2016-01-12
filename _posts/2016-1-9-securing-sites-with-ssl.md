@@ -4,7 +4,7 @@ title: "Securing Websites with SSL"
 date: 2016-1-9
 categories: linux
 ---
-Securing websites with SSL is almost a necessity today. Even for smaller websites it gives visitors peace of mind that their traffic is not being intercepted by a Man in the Middle attack and is absolutely necessary for sites that collect payments. It is fairly easy to generate a Certificate Signing Request (CSR), submit your CSR to validate your certificate, and set it on your web server or proxy.
+Securing websites with SSL is almost a necessity today. Even for smaller websites it gives visitors peace of mind that their traffic is not being intercepted by a Man in the Middle attack, and is absolutely necessary for sites that collect payments. It is fairly easy to generate a Certificate Signing Request (CSR), submit your CSR to validate your certificate, and set it on your web server or proxy...
 
 The first step is to generate your CSR.
 

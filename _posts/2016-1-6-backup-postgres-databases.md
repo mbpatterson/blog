@@ -4,7 +4,7 @@ title: "Backup Postgres Databases"
 date: 2016-1-6
 categories: linux
 ---
-SSH into your Postgres server and login as the postgres user `sudo su - postgres`.
+SSH into your Postgres server and login as the postgres user `sudo su - postgres`...
 
 Use the `pg_dumpall` command to make a backup of all datbases.
 
