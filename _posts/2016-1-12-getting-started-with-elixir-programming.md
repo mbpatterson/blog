@@ -45,9 +45,11 @@ Anonymous functions can be assigned to variables and are called with var_name.(p
 
 There is a shorthand way to write anonymous functions which is really cool. The below example is the same as above.
 
-   sum = &(&1 + &2)
-   sum(1,2)
-   3
+
+    sum = &(&1 + &2)
+    sum(1,2)
+    3
+
 
 One function can also contain multiple different bodies. Whichever pattern matches successfully will run.
 
