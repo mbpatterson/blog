@@ -2,7 +2,7 @@
 layout: post
 title: "Setup HyperV Server 2012 Without Domain"
 date: 2016-2-15
-categories: misc
+categories: server
 ---
 I a in the process of redoing my home lab and settled on HyperV as my virtualization platform. I have experience using it for work and want to increase my knowledge and skills in configuring and using it. Setting up HyperV Server 2012 without a domain was a bit more difficult than I anticipated. Read on to see all the steps needed to get this done...
 
