@@ -2,13 +2,13 @@
 layout: post
 title: "JIRA and Confluence Setup Part 1: Server Planning"
 date: 2016-5-1
-categories: server
+categories: atlassian
 ---
 JIRA and Confluence are powerful tools to help manage projects and write documentation. The 10 user starter license is only $10 per year per product and is a fantastic value. This is the first post in a multi-post series detailing how to get these products installed and configured.
 
-Part 1: Server Planning
+[Part 1: Server Planning](http://michaelpatterson.me/atlassian/2016/05/01/jira-confluence-setup-part-1.html)
 
-Part 2: Database Setup
+[Part 2: Database Setup](http://michaelpatterson.me/atlassian/2016/05/02/jira-confluence-setup-part-2.html)
 
 Part 3: Proxy Configuration
 
