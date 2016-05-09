@@ -10,7 +10,7 @@ JIRA and Confluence are powerful tools to help manage projects and write documen
 
 [Part 2: Database Setup](http://michaelpatterson.me/atlassian/2016/05/02/jira-confluence-setup-part-2.html)
 
-Part 3: Proxy Configuration
+[Part 3: Proxy Configuration](http://michaelpatterson.me/atlassian/2016/05/08/jira-confluence-setup-part-3.html)
 
 Part 4: JIRA Installation
 
